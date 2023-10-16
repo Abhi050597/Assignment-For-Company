@@ -1,0 +1,14 @@
+
+public class RomantoInteger {
+
+
+	
+	public static void main(String[] args) {
+		
+	    String romanNumeral = "IX"; // Replace with your Roman numeral input
+
+        int result = romanToInt(romanNumeral);
+        System.out.println("Roman numeral " + romanNumeral + " is equivalent to integer " + result);
+	}
+
+}
